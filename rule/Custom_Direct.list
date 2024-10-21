@@ -5,13 +5,43 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 
+# > 不忘初心
+- DOMAIN-SUFFIX,pc528.net
+- IP-CIDR,47.57.4.127/32
+# > 797发卡
+- DOMAIN-SUFFIX,pay777.love
+- DOMAIN-SUFFIX,pay777.fit
+# > 95云寄售
+- DOMAIN-SUFFIX,95fk.net
+# > TV
+- DOMAIN-KEYWORD,dious,DIRECT
+- DOMAIN-KEYWORD,fsvod,DIRECT
+- DOMAIN-KEYWORD,ffzy,DIRECT
+# > 讯牛
+- DOMAIN-SUFFIX,xunniuyun.com
+# > ROSE
+- DOMAIN-SUFFIX,roseserver.top
+- DOMAIN-SUFFIX,rose29.top
+- DOMAIN-SUFFIX,rose46.top
+- DOMAIN-SUFFIX,rose51.top
+# > 火箭云盘
+- DOMAIN-SUFFIX,qqupload.com
+# > YIFile
+  - DOMAIN-SUFFIX,feisupan.cn
+IP-CIDR,46.137.220.65/32
+# > notdiamond
+DOMAIN-SUFFIX,notdiamond.ai
+# > 夜色王朝
+DOMAIN-SUFFIX,yesebbs.com
+DOMAIN-SUFFIX,www.yesewc9.com
+# 请在此线以上添加规则============================================================
 # ImmortalWrt 在线更新服务
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,vsean.net
 # OpenWrt AI 站点
-DOMAIN-SUFFIX,openwrt.ai
+#DOMAIN-SUFFIX,openwrt.ai
 # 订阅转换
 DOMAIN-SUFFIX,apiurl.v1.mk
 # 机场域名

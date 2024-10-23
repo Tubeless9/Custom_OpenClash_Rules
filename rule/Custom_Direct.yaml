@@ -6,7 +6,12 @@
 # 规则内容较少，不会影响性能，请放心使用
 payload:
 # > 国家电网
-  - DOMAIN-SUFFIX,sgcc.com.cn
+  - DOMAIN-KEYWORD,sgcc
+  - DOMAIN-SUFFIX,umeng.com
+  - DOMAIN-SUFFIX,umengcloud.com
+# > 阿里
+  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,alipay.com
 # > 不忘初心
   - DOMAIN-SUFFIX,pc528.net
   - IP-CIDR,47.57.4.127/32

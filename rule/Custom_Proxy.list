@@ -10,4 +10,7 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
-
+# mail.ru
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mycdn.me

@@ -5,6 +5,8 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 payload:
+# > 天翼云补充
+  - DOMAIN-KEYWORD,ctyunxs
 # > wk论坛
   - DOMAIN-SUFFIX,comewk.com
   - DOMAIN-SUFFIX,wk009.com

@@ -6,7 +6,7 @@
 # 规则内容较少，不会影响性能，请放心使用
 payload:
 # KeyAuth
-  - DOMAIN-KEYWORD,keyauth
+#  - DOMAIN-KEYWORD,keyauth
 # > SF2下载
   - DOMAIN-SUFFIX,patch-sf2.papayaplay.com
 # > 天翼云补充

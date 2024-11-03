@@ -14,4 +14,4 @@ payload:
   - DOMAIN-SUFFIX,mycdn.me
   - DOMAIN-SUFFIX,stun.syncthing.net
 # KeyAuth
-  - DOMAIN-KEYWORD,keyauth
+#  - DOMAIN-KEYWORD,keyauth

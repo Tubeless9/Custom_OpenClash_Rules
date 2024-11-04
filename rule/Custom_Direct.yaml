@@ -5,6 +5,15 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 payload:
+#Pikpak
+  - DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+  - DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+  - DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+  - DOMAIN-SUFFIX,hub5pnc.sandai.net
+  - DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+  - DOMAIN-SUFFIX,hubciddata.sandai.net
+  - DOMAIN-KEYWORD,mypikpak
+#小修系统
   - DOMAIN-SUFFIX,xiuxitong.com
 # KeyAuth
 #  - DOMAIN-KEYWORD,keyauth

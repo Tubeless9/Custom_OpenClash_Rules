@@ -1,8 +1,8 @@
 # NAME: Custom_Proxy
 # 强制代理列表，来自个人收集
 payload:
-  - IP-CIDR,172.67.72.57/32
-  - IP-CIDR,13.214.226.141/32
+#  - IP-CIDR,172.67.72.57/32
+#  - IP-CIDR,13.214.226.141/32
 # EA Desktop 云同步
 #DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
 # GooglePlay 相关
@@ -16,4 +16,4 @@ payload:
   - DOMAIN-SUFFIX,mycdn.me
   - DOMAIN-SUFFIX,stun.syncthing.net
 # KeyAuth
-  - DOMAIN-KEYWORD,keyauth
+#  - DOMAIN-KEYWORD,keyauth

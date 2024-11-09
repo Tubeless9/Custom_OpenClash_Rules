@@ -16,7 +16,7 @@ payload:
 #小修系统
   - DOMAIN-SUFFIX,xiuxitong.com
 # KeyAuth
-#  - DOMAIN-KEYWORD,keyauth
+  - DOMAIN-KEYWORD,keyauth
 # > SF2下载
   - DOMAIN-SUFFIX,patch-sf2.papayaplay.com
 # > 天翼云补充

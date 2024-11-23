@@ -5,6 +5,8 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 payload:
+#Androidoyun
+  - DOMAIN-SUFFIX,androidoyun.club
 #Pikpak
   - DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
   - DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net

@@ -3,6 +3,8 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 payload:
+#52汇编
+  - DOMAIN-SUFFIX,52hb.com
   - DOMAIN-KEYWORD,rmcdn
 #美服DNF  
 #  - DOMAIN-KEYWORD,dfoneople

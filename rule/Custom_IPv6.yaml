@@ -1,0 +1,10 @@
+# NAME: Custom_IPv6地址补充
+# 个人收集
+payload:
+# Facebook_IPv6
+  - IP-CIDR6,2a03:2880:f131:83:face:b00c:0:25de/128,no-resolve
+  - IP-CIDR6,2a03:2880:f127:83:face:b00c:0:25de/128,no-resolve
+  - IP-CIDR6,2a03:2880:f102:183:face:b00c:0:25de/128,no-resolve
+  - IP-CIDR6,2a03:2880:f12d:83:face:b00c:0:25de/128,no-resolve
+  - IP-CIDR6,2a03:2880:f11c:8083:face:b00c:0:25de/128,no-resolve
+  - IP-CIDR6,2a03:2880:f10d:183:face:b00c:0:25de/128,no-resolve

@@ -65,8 +65,8 @@ payload:
 # > notdiamond
   - DOMAIN-SUFFIX,notdiamond.ai
 # > 夜色王朝
-  - DOMAIN-SUFFIX,yesebbs.com
-  - DOMAIN-SUFFIX,www.yesewc9.com
+  - DOMAIN-KEYWORD,yesewc
+  - DOMAIN-KEYWORD,avlang
 # 请在此线以上添加规则============================================================
 # ImmortalWrt 在线更新服务
   - DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe

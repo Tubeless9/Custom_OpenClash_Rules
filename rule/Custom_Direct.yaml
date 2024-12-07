@@ -63,7 +63,7 @@ payload:
   - DOMAIN-SUFFIX,feisupan.cn
   - IP-CIDR,46.137.220.65/32
 # > notdiamond
-  - DOMAIN-SUFFIX,notdiamond.ai
+#  - DOMAIN-SUFFIX,notdiamond.ai
 # > 夜色王朝
   - DOMAIN-KEYWORD,yesewc
 #  - DOMAIN-KEYWORD,avlang

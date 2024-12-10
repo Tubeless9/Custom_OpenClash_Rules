@@ -4,7 +4,10 @@ payload:
 #电报
   - IP-CIDR,95.161.76.100/31
 #抖音
-  - DOMAIN-KEYWORD,douyin
+  - DOMAIN-SUFFIX, douyin.com
+  - DOMAIN-SUFFIX, snssdk.com
+  - DOMAIN-SUFFIX, bytedance.com
+  - DOMAIN-SUFFIX, douyinstatic.com
   - DOMAIN,lf3-static.bytednsdoc.com
   - DOMAIN,v5-dy-o-abtest.zjcdn.com
   - DOMAIN-SUFFIX,amemv.com

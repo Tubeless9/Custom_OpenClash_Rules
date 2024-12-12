@@ -1,6 +1,8 @@
 # NAME: Custom_Proxy
 # 强制代理列表，来自个人收集
 payload:
+#小利
+  - DOMAIN-SUFFIX,baililai.xyz
 #  - IP-CIDR,172.67.72.57/32
 #  - IP-CIDR,13.214.226.141/32
 # EA Desktop 云同步

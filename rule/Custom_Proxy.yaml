@@ -3,6 +3,7 @@
 payload:
 #蝙蝠
   - DOMAIN-KEYWORD,batchat
+  - DOMAIN-KEYWORD,baticq
 #小利
   - DOMAIN-SUFFIX,baililai.xyz
 #  - IP-CIDR,172.67.72.57/32

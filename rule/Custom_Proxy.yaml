@@ -1,6 +1,8 @@
 # NAME: Custom_Proxy
 # 强制代理列表，来自个人收集
 payload:
+#蝙蝠
+  - DOMAIN-KEYWORD,batchat
 #小利
   - DOMAIN-SUFFIX,baililai.xyz
 #  - IP-CIDR,172.67.72.57/32

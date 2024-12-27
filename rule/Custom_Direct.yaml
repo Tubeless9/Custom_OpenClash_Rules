@@ -4,6 +4,9 @@
 # 规则内容较少，不会影响性能，请放心使用
 payload:
   - DOMAIN-SUFFIX,xiaoqi999.com
+#梦楠分享
+  - DOMAIN-SUFFIX,yucne.com
+  - DOMAIN-SUFFIX,mnpc.net
 #量子资源
   - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,lzcdn

@@ -4,6 +4,7 @@
 # 规则内容较少，不会影响性能，请放心使用
 payload:
   - DOMAIN-SUFFIX,xiaoqi999.com
+  - DOMAIN-SUFFIX,timotxt.com
   - DOMAIN-KEYWORD,7902x
   - DOMAIN-KEYWORD,7902y
 #磁力搜索  

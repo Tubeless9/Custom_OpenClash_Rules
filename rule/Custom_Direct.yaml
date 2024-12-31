@@ -11,7 +11,7 @@ payload:
 #聚合网盘
   #- DOMAIN-SUFFIX,haoduopan.site
 #磁力搜索  
-  - DOMAIN-KEYWORD,wuqianso
+  - DOMAIN-KEYWORD,wuqian
 #116网盘
   - DOMAIN-KEYWORD,116pan
 #梦楠分享

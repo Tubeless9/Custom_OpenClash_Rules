@@ -21,7 +21,7 @@ payload:
   - DOMAIN-KEYWORD,lzcdn
 #52汇编
   - DOMAIN-SUFFIX,52hb.com
-  - DOMAIN-KEYWORD,rmcdn
+  #- DOMAIN-KEYWORD,rmcdn
 #美服DNF  
 #  - DOMAIN-KEYWORD,dfoneople
 #小利

@@ -13,6 +13,8 @@ payload:
   - DOMAIN-KEYWORD,wuqian
 #116网盘
   - DOMAIN-KEYWORD,116pan
+#蘑菇云盘
+  - DOMAIN-SUFFIX,cainiu.xyz
 #梦楠分享
   - DOMAIN-SUFFIX,yucne.com
   - DOMAIN-SUFFIX,mnpc.net

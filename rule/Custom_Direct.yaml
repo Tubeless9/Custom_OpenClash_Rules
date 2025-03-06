@@ -4,7 +4,8 @@
 # 规则内容较少，不会影响性能，请放心使用
 payload:
   #- DOMAIN-SUFFIX,timotxt.com
-  - DOMAIN-KEYWORD,image
+  - DOMAIN-KEYWORD,imagetwist
+  - DOMAIN-KEYWORD,imgccc
   - DOMAIN-KEYWORD,1619x
   - DOMAIN-KEYWORD,7902x
   - DOMAIN-KEYWORD,7902y

@@ -3,6 +3,7 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 payload:
+  - DOMAIN-SUFFIX,kunlun.com
   #- DOMAIN-SUFFIX,timotxt.com
   - DOMAIN-KEYWORD,imagetwist
   - DOMAIN-KEYWORD,imgccc

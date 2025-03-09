@@ -4,6 +4,7 @@
 # 规则内容较少，不会影响性能，请放心使用
 payload:
   - DOMAIN-SUFFIX,kunlun.com
+  - DOMAIN-SUFFIX,platinmods.com
   #- DOMAIN-SUFFIX,timotxt.com
   - DOMAIN-KEYWORD,imagetwist
   - DOMAIN-KEYWORD,imgccc

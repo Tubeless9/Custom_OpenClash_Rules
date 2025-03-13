@@ -12,7 +12,7 @@ payload:
   - DOMAIN-KEYWORD,7902x
   - DOMAIN-KEYWORD,7902y
 #聚合网盘
-  #- DOMAIN-SUFFIX,haoduopan.site
+  - DOMAIN-SUFFIX,haoduopan.site
 #磁力搜索  
   - DOMAIN-KEYWORD,wuqian
 #116网盘

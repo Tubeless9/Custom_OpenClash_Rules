@@ -14,12 +14,13 @@ payload:
 #聚合网盘
   - DOMAIN-SUFFIX,haoduopan.site
   - DOMAIN-SUFFIX,haoduopan.space
-#磁力搜索  
-  - DOMAIN-KEYWORD,wuqian
+  - DOMAIN-SUFFIX,lemoncatdd.xyz
 #116网盘
   - DOMAIN-KEYWORD,116pan
 #蘑菇云盘
-  - DOMAIN-SUFFIX,cainiu.xyz
+  - DOMAIN-SUFFIX,cainiu.xyz  
+#磁力搜索  
+  - DOMAIN-KEYWORD,wuqian
 #梦楠分享
   - DOMAIN-SUFFIX,yucne.com
   - DOMAIN-SUFFIX,mnpc.net

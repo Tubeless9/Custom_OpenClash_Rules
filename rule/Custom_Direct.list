@@ -2,181 +2,181 @@
 # 强制直连域名列表，来自个人收集
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
-payload:
-  - DOMAIN-SUFFIX,y1yun.shop
-  - DOMAIN-SUFFIX,kunlun.com
-  - DOMAIN-SUFFIX,platinmods.com
-  #- DOMAIN-SUFFIX,timotxt.com
-  - DOMAIN-KEYWORD,imagetwist
-  - DOMAIN-KEYWORD,imgccc
-  - DOMAIN-KEYWORD,1619x
-  - DOMAIN-KEYWORD,7902x
-  - DOMAIN-KEYWORD,7902y
+
+DOMAIN-SUFFIX,y1yun.shop
+DOMAIN-SUFFIX,kunlun.com
+DOMAIN-SUFFIX,platinmods.com
+#DOMAIN-SUFFIX,timotxt.com
+DOMAIN-KEYWORD,imagetwist
+DOMAIN-KEYWORD,imgccc
+DOMAIN-KEYWORD,1619x
+DOMAIN-KEYWORD,7902x
+DOMAIN-KEYWORD,7902y
 #聚合网盘
-  - DOMAIN-SUFFIX,haoduopan.site
-  - DOMAIN-SUFFIX,haoduopan.space
-  - DOMAIN-SUFFIX,lemoncatdd.xyz
+DOMAIN-SUFFIX,haoduopan.site
+DOMAIN-SUFFIX,haoduopan.space
+DOMAIN-SUFFIX,lemoncatdd.xyz
 #116网盘
-  - DOMAIN-KEYWORD,116pan
+DOMAIN-KEYWORD,116pan
 #蘑菇云盘
-  - DOMAIN-SUFFIX,cainiu.xyz  
+DOMAIN-SUFFIX,cainiu.xyz  
 #磁力搜索  
-  - DOMAIN-KEYWORD,wuqian
+DOMAIN-KEYWORD,wuqian
 #梦楠分享
-  - DOMAIN-SUFFIX,yucne.com
-  - DOMAIN-SUFFIX,mnpc.net
+DOMAIN-SUFFIX,yucne.com
+DOMAIN-SUFFIX,mnpc.net
 #量子资源
-  - DOMAIN-KEYWORD,lz-cdn
-  - DOMAIN-KEYWORD,lzcdn
+DOMAIN-KEYWORD,lz-cdn
+DOMAIN-KEYWORD,lzcdn
 #52汇编
-  - DOMAIN-SUFFIX,52hb.com
-  #- DOMAIN-KEYWORD,rmcdn
+DOMAIN-SUFFIX,52hb.com
+#DOMAIN-KEYWORD,rmcdn
 #美服DNF  
-#  - DOMAIN-KEYWORD,dfoneople
+#DOMAIN-KEYWORD,dfoneople
 #小利
-#  - DOMAIN-SUFFIX,baililai.xyz
+#DOMAIN-SUFFIX,baililai.xyz
 #Androidoyun
-  - DOMAIN-SUFFIX,androidoyun.club
+DOMAIN-SUFFIX,androidoyun.club
 #Pikpak
-  - DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
-  - DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
-  - DOMAIN-SUFFIX,hub5pn.wap.sandai.net
-  - DOMAIN-SUFFIX,hub5pnc.sandai.net
-  - DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
-  - DOMAIN-SUFFIX,hubciddata.sandai.net
-  - DOMAIN-KEYWORD,mypikpak
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-KEYWORD,mypikpak
 #小修系统
-  - DOMAIN-SUFFIX,xiuxitong.com
+DOMAIN-SUFFIX,xiuxitong.com
 # KeyAuth
-  - DOMAIN-KEYWORD,keyauth
+DOMAIN-KEYWORD,keyauth
 # > SF2下载
-  - DOMAIN-SUFFIX,patch-sf2.papayaplay.com
+DOMAIN-SUFFIX,patch-sf2.papayaplay.com
 # > 天翼云补充
-  - DOMAIN-KEYWORD,ctyunxs
+DOMAIN-KEYWORD,ctyunxs
 # > wk论坛
-  - DOMAIN-SUFFIX,comewk.com
-  - DOMAIN-SUFFIX,wk009.com
+DOMAIN-SUFFIX,comewk.com
+DOMAIN-SUFFIX,wk009.com
 # > 国家电网
-  - DOMAIN-KEYWORD,sgcc
-  - DOMAIN-SUFFIX,umeng.com
-  - DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-KEYWORD,sgcc
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
 # > 阿里
-  - DOMAIN-SUFFIX,aliyuncs.com
-  - DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alipay.com
 # > 不忘初心
-  - DOMAIN-SUFFIX,pc528.net
-  - IP-CIDR,47.57.4.127/32
+DOMAIN-SUFFIX,pc528.net
+IP-CIDR,47.57.4.127/32
 # > 797发卡
-  - DOMAIN-SUFFIX,pay777.love
-  - DOMAIN-SUFFIX,pay777.fit
+DOMAIN-SUFFIX,pay777.love
+DOMAIN-SUFFIX,pay777.fit
 # > 95云寄售
-  - DOMAIN-SUFFIX,95fk.net
+DOMAIN-SUFFIX,95fk.net
 # > TV
-  - DOMAIN-KEYWORD,dious,DIRECT
-  - DOMAIN-KEYWORD,fsvod,DIRECT
-  - DOMAIN-KEYWORD,ffzy,DIRECT
+DOMAIN-KEYWORD,dious,DIRECT
+DOMAIN-KEYWORD,fsvod,DIRECT
+DOMAIN-KEYWORD,ffzy,DIRECT
 # > 讯牛
-  - DOMAIN-SUFFIX,xunniuyun.com
+DOMAIN-SUFFIX,xunniuyun.com
 # > ROSE
-  - DOMAIN-SUFFIX,roseserver.top
-  - DOMAIN-SUFFIX,rose29.top
-  - DOMAIN-SUFFIX,rose46.top
-  - DOMAIN-SUFFIX,rose51.top
+DOMAIN-SUFFIX,roseserver.top
+DOMAIN-SUFFIX,rose29.top
+DOMAIN-SUFFIX,rose46.top
+DOMAIN-SUFFIX,rose51.top
 # > 火箭云盘
-  - DOMAIN-SUFFIX,qqupload.com
+DOMAIN-SUFFIX,qqupload.com
 # > YIFile
-  - DOMAIN-SUFFIX,feisupan.cn
-  - IP-CIDR,46.137.220.65/32
+DOMAIN-SUFFIX,feisupan.cn
+IP-CIDR,46.137.220.65/32
 # > notdiamond
-#  - DOMAIN-SUFFIX,notdiamond.ai
+#DOMAIN-SUFFIX,notdiamond.ai
 # > 夜色王朝
-  - DOMAIN-KEYWORD,yesewc
-#  - DOMAIN-KEYWORD,avlang
+DOMAIN-KEYWORD,yesewc
+#DOMAIN-KEYWORD,avlang
 # 请在此线以上添加规则============================================================
 # ImmortalWrt 在线更新服务
-  - DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
-  - DOMAIN-SUFFIX,immortalwrt.org
-  - DOMAIN-SUFFIX,vsean.net
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,vsean.net
 # OpenWrt AI 站点
   #- DOMAIN-SUFFIX,openwrt.ai
 # 订阅转换
-  - DOMAIN-SUFFIX,apiurl.v1.mk
+DOMAIN-SUFFIX,apiurl.v1.mk
 # 机场域名
-  - DOMAIN-SUFFIX,dogsvip.site
+DOMAIN-SUFFIX,dogsvip.site
 # Todesk
-  - DOMAIN-SUFFIX,todesk.com
+DOMAIN-SUFFIX,todesk.com
 # 追觅科技
-  - DOMAIN-SUFFIX,dreame.tech
+DOMAIN-SUFFIX,dreame.tech
 # 猫眼浏览器
-  - DOMAIN-SUFFIX,catsxp.com
+DOMAIN-SUFFIX,catsxp.com
 # 推送加
-  - DOMAIN-SUFFIX,pushplus.plus
+DOMAIN-SUFFIX,pushplus.plus
 # 其他域名
-  - DOMAIN-SUFFIX,kit327.com
+DOMAIN-SUFFIX,kit327.com
 # Windows 网络连接探测
-  - DOMAIN-SUFFIX,msftconnecttest.com
-  - DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 # 暴雪战网国际服下载节点
-  - DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
-  - DOMAIN-SUFFIX,level3.blizzard.com
-  - DOMAIN-SUFFIX,kr.cdn.blizzard.com
-  - DOMAIN-SUFFIX,us.cdn.blizzard.com
-  - DOMAIN-SUFFIX,eu.cdn.blizzard.com
-  - IP-CIDR,137.221.64.0/24,no-resolve
-  - IP-CIDR,8.251.135.126/32,no-resolve
-  - IP-CIDR,8.251.246.126/32,no-resolve
+DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
+DOMAIN-SUFFIX,level3.blizzard.com
+DOMAIN-SUFFIX,kr.cdn.blizzard.com
+DOMAIN-SUFFIX,us.cdn.blizzard.com
+DOMAIN-SUFFIX,eu.cdn.blizzard.com
+IP-CIDR,137.221.64.0/24,no-resolve
+IP-CIDR,8.251.135.126/32,no-resolve
+IP-CIDR,8.251.246.126/32,no-resolve
 # 互动游戏对战平台
-  - DOMAIN-SUFFIX,fxt365.com
+DOMAIN-SUFFIX,fxt365.com
 # 微软飞行模拟 2020 游戏内下载 CDN
-  - DOMAIN,pf-cdn-content-prod.azureedge.net
+DOMAIN,pf-cdn-content-prod.azureedge.net
 # 蓝点网
-  - DOMAIN-SUFFIX,landiannews.com
-  - DOMAIN-SUFFIX,lancdn.com
+DOMAIN-SUFFIX,landiannews.com
+DOMAIN-SUFFIX,lancdn.com
 # 5E 对战平台
-  - DOMAIN-SUFFIX,5eplay.com
+DOMAIN-SUFFIX,5eplay.com
 # 松下智能家居
-  - DOMAIN-SUFFIX,psmartcloud.com
+DOMAIN-SUFFIX,psmartcloud.com
 # 麦瑞克健身设备 & 超燃脂APP
-  - DOMAIN-SUFFIX,merach.com
+DOMAIN-SUFFIX,merach.com
 # 暴雪战网国服相关
-  - DOMAIN-SUFFIX,netease.com
-  - DOMAIN-SUFFIX,leihuo.netease.com
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,leihuo.netease.com
 # 太川门禁系统
-  - DOMAIN-SUFFIX,taichuan.com
-  - DOMAIN-SUFFIX,taichuan.net
+DOMAIN-SUFFIX,taichuan.com
+DOMAIN-SUFFIX,taichuan.net
 # PT 下载相关
-  - DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,tracker
 # Akamai CDN
-  - DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaihd.net
 # FinalShell
-  - IP-CIDR,5.5.5.5/32,no-resolve
+IP-CIDR,5.5.5.5/32,no-resolve
 # 支付宝小程序
   -DOMAIN-SUFFIX,95504test.com
 # 小众软件论坛
   -DOMAIN-SUFFIX,appinn.net
 # Emby 小雅 相关
-  - DOMAIN-SUFFIX,ddsrem.com
-  - DOMAIN-SUFFIX,ipinfo.io
-  - DOMAIN-SUFFIX,ggbond.org
-  - DOMAIN-SUFFIX,nn.ci
-  - DOMAIN-SUFFIX,xhofe.top
-  - DOMAIN-SUFFIX,xiaoyakeeper.u.1996999.xyz
-  - DOMAIN-SUFFIX,wwwh.eu.org
+DOMAIN-SUFFIX,ddsrem.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ggbond.org
+DOMAIN-SUFFIX,nn.ci
+DOMAIN-SUFFIX,xhofe.top
+DOMAIN-SUFFIX,xiaoyakeeper.u.1996999.xyz
+DOMAIN-SUFFIX,wwwh.eu.org
 # 江苏健康通
-  - DOMAIN-SUFFIX,jsehealth.com
+DOMAIN-SUFFIX,jsehealth.com
 # 国内 CDN
-  - DOMAIN-SUFFIX,cjjd19.com
+DOMAIN-SUFFIX,cjjd19.com
 # UniGetUI
-  - DOMAIN-SUFFIX,powershellgallery.com
+DOMAIN-SUFFIX,powershellgallery.com
 # 魔兽世界 新手盒子
-  - DOMAIN-SUFFIX,newbeebox.com
-  - DOMAIN-SUFFIX,wclbox.com
+DOMAIN-SUFFIX,newbeebox.com
+DOMAIN-SUFFIX,wclbox.com
 # NTP Pool Project
-  - DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,pool.ntp.org
 # 明经 CAD 社区
-  - DOMAIN-SUFFIX,mjtd.com
+DOMAIN-SUFFIX,mjtd.com
 # Dell
-  - DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,dell.com
 # 魔兽工坊
-  - DOMAIN-SUFFIX,miaoyanai.com
+DOMAIN-SUFFIX,miaoyanai.com

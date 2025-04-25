@@ -3,6 +3,7 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 
+DOMAIN-SUFFIX,xxxpan.com
 DOMAIN-SUFFIX,y1yun.shop
 DOMAIN-SUFFIX,kunlun.com
 DOMAIN-SUFFIX,platinmods.com

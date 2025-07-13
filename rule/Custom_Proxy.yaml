@@ -1,6 +1,7 @@
 # NAME: Custom_Proxy
 # 强制代理列表，来自个人收集
 payload:
+  - DOMAIN-SUFFIX,luobo1688.com
   - DOMAIN-SUFFIX,rouman5.com
   - DOMAIN-SUFFIX,23img.com
   - DOMAIN-SUFFIX,blhc.xyz

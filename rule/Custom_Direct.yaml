@@ -33,6 +33,18 @@ payload:
 #梦楠分享
   - DOMAIN-SUFFIX,yucne.com
   - DOMAIN-SUFFIX,mnpc.net
+#电视相关
+  - DOMAIN-SUFFIX,bkyb.net
+  - DOMAIN-SUFFIX,210985.xyz
+  - DOMAIN-SUFFIX,haoxi.vip
+  - DOMAIN-SUFFIX,liucn.cc
+  - DOMAIN-SUFFIX,49zy1.com
+  - DOMAIN-SUFFIX,apibdzy.com
+  - DOMAIN-SUFFIX,www.yyds.one
+  - DOMAIN-SUFFIX,348z.com
+  - DOMAIN-SUFFIX,xtudou.top
+  - DOMAIN-SUFFIX,bfzyapi.com
+  - DOMAIN-SUFFIX,qhzyapi.com
 #量子资源
   - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,lzcdn

@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,23400.icu
   - DOMAIN-KEYWORD,rmcdn
   - DOMAIN-SUFFIX,koalaclouds.com
-  - DOMAIN-SUFFIX,avlang.com
+  #- DOMAIN-SUFFIX,avlang.com
   - DOMAIN-SUFFIX,9usq.com
   - DOMAIN-SUFFIX,yrsw.top
   - DOMAIN-SUFFIX,hatvips.xyz

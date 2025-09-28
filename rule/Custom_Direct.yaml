@@ -138,7 +138,7 @@ payload:
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,vsean.net
 # OpenWrt AI 站点
-  - DOMAIN-SUFFIX,openwrt.ai
+  #- DOMAIN-SUFFIX,openwrt.ai
 # 订阅转换
   - DOMAIN-SUFFIX,apiurl.v1.mk
 # 机场域名

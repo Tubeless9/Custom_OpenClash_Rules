@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,yrsw.top
   - DOMAIN-SUFFIX,hatvips.xyz
   - DOMAIN-SUFFIX,xxxpan.com
-  - DOMAIN-SUFFIX,y1yun.shop
+  #- DOMAIN-SUFFIX,y1yun.shop
   - DOMAIN-SUFFIX,kunlun.com
   - DOMAIN-SUFFIX,platinmods.com
   #- DOMAIN-SUFFIX,timotxt.com

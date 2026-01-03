@@ -77,7 +77,7 @@ payload:
 #小利
 #  - DOMAIN-SUFFIX,baililai.xyz
 #Androidoyun
-  - DOMAIN-SUFFIX,androidoyun.club
+  #- DOMAIN-SUFFIX,androidoyun.club
 #Pikpak
   - DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
   - DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net

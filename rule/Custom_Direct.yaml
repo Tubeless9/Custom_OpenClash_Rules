@@ -3,6 +3,8 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 payload:
+  - DOMAIN-KEYWORD,6img
+  - DOMAIN-KEYWORD,u9a9
   - DOMAIN-KEYWORD,qyshare
   - DOMAIN-SUFFIX,jufangsoft.com
   - DOMAIN-SUFFIX,23400.icu

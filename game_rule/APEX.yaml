@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,fastpatch.r5prod.stryder.respawn.com
   - DOMAIN-SUFFIX,fastpatch-rules.r5prod.stryder.respawn.com
 # ===== Apex QoS 探测 =====
+  - DOMAIN-KEYWORD,ap-east-1          亚太地区（香港）
   - DOMAIN-KEYWORD,ap-northeast-1     #亚太地区（东京）
   - DOMAIN-KEYWORD,ap-northeast-2     #亚太地区（首尔）
   - DOMAIN-KEYWORD,ap-northeast-3     #亚太地区（大阪）

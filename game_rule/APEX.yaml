@@ -1,7 +1,5 @@
 #APEX相关域名
 payload:
-  - DOMAIN-KEYWORD,6img
-  - DOMAIN-SUFFIX,jufangsoft.com
 # ===== Apex Legends 核心服务 =====
   - DOMAIN-SUFFIX,respawn.com
   - DOMAIN-SUFFIX,stryder.respawn.com
